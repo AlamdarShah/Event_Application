@@ -1,9 +1,9 @@
-import 'package:animated_splash_screen/animated_splash_screen.dart';
+
 import 'package:events/screens/homePage.dart';
 import 'package:events/screens/loginPage.dart';
 import 'package:events/screens/splashScreen.dart';
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
+
 
 
 void main() => runApp(MyApp());

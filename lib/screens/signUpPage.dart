@@ -185,25 +185,6 @@ class _SignUpPageState extends State<SignUpPage> {
                     ],
                   ),
                   ),
-                  // Row(
-                  //     children: [
-                        
-                  //      CheckboxListTile(value: male, onChanged: ( value) {
-                  //        setState(() {
-                  //          male=value!;
-                  //        });
-                  //      },
-                  //      title: Text("Male"),
-                  //      ),
-                  //     //  CheckboxListTile(value: female, onChanged: (value) {
-                  //     //    setState(() {
-                  //     //      female=value;
-                  //     //    });
-                  //     //  },
-                  //     //  title: Text("Female"),
-                  //     //  )
-                  //     ],
-                  //   ),
                   SizedBox(
                     height: 17.0,
                   ),
